@@ -1,1 +1,1 @@
-This repo contains the my learning and practice session. 
+This repo contains my learning and practice session. 
